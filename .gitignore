@@ -1,0 +1,9 @@
+# Default ignored files
+__pycache__
+*.pyc
+
+# 不上传日志
+logs
+*.log
+.idea
+download
